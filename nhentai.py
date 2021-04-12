@@ -4,7 +4,7 @@ import requests
 from sys import argv
 
 print("please fill the empty fields")
-
+print("if you face problem with tor, make sure you have your tor running. and in case change the port")
 
 cookies = {
     '__cfduid': '',
